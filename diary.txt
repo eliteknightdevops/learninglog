@@ -1,0 +1,2 @@
+day 1: learnend linux
+day 2: learnend git
